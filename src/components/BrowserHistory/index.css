@@ -1,0 +1,35 @@
+.navbar-container {
+  background-color: #3367d6;
+  display: flex;
+}
+.search-logo-container {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  background-color: #2850a7;
+  align-items: center;
+  border: 1px solid #64748b;
+}
+.search-input {
+  background-color: transparent;
+  border: 0px;
+  outline: none;
+  color: #ececec;
+  padding-left: 18px;
+}
+
+.search-icon {
+  padding-right: 10px;
+}
+.list {
+  list-style-type: none;
+}
+.app-container {
+  text-align: center;
+}
+.noteItems {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
