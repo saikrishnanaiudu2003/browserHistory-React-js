@@ -125,7 +125,7 @@ class BrowserHistroy extends Component {
         </div>
         <div className="list-container">
           {historyList.length < 1 ? (
-            <div classNmae="noteItems">
+            <div className="noteItems">
               <p>There is no history to show</p>
             </div>
           ) : (
